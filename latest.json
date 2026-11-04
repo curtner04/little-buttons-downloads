@@ -1,8 +1,8 @@
 {
     "Schema":  1,
     "App":  "LB",
-    "Version":  "1.6.0",
-    "DownloadUrl":  "https://github.com/curtner04/little-buttons-downloads/releases/download/little-buttons-1.6.0-eb2f98fb37de6f69/LB-Setup.exe",
-    "SHA256":  "eb2f98fb37de6f69276ee39b7bd807f3271ae5e75d9d561da2042a9d24b5ed54",
-    "Bytes":  4902362
+    "Version":  "1.7.1",
+    "DownloadUrl":  "https://github.com/curtner04/little-buttons-downloads/releases/download/little-buttons-1.7.1-d52e552c7346a0e4/LB-Setup.exe",
+    "SHA256":  "d52e552c7346a0e44df1a1a04e7cca34e0ba9c538a6d9ca6a35ebffaf68e84d0",
+    "Bytes":  4917131
 }
